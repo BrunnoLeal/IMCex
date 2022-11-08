@@ -1,0 +1,11 @@
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\bin\Debug\exAREA.exe.config
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\bin\Debug\exAREA.exe
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\bin\Debug\exAREA.pdb
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.csproj.AssemblyReference.cache
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.csproj.SuggestedBindingRedirects.cache
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.Form1.resources
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.Properties.Resources.resources
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.csproj.GenerateResource.cache
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.csproj.CoreCompileInputs.cache
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.exe
+C:\Users\brunno.sleal\source\repos\exAREA\exAREA\obj\Debug\exAREA.pdb
